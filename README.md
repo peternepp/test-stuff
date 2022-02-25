@@ -1,10 +1,16 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 # Bookmarks
 
 ## Documentation
 
 ### DCC
 
-| MAYA | NUKE |
+| <span style="display: inline-block; width:500px">MAYA</span> | NUKE |
 -|-
 | [Maya Docs](fgfdgfd) | |
 
