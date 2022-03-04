@@ -1,9 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 # Bookmarks
 
 ## Documentation
@@ -24,3 +18,9 @@
 | MA |
 -|
 [Mermaid Graphs](https://mermaid-js.github.io/mermaid/#/) 
+
+<style>
+    table {
+        width: 100%;
+    }
+</style>
